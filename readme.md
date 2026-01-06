@@ -30,16 +30,11 @@ Understanding geometric properties like area and volume is essential in math, en
 
 ## 🛠️ Built With
 
-List your technologies here (example):
-
 | Technology         | Purpose                   |
 | ------------------ | ------------------------- |
 | **Java / Kotlin**  | Core programming language |
 | **Android Studio** | Development environment   |
 | **XML**            | UI design                 |
-| **JUnit**          | Unit testing              |
-
-*(Adjust the above tech stack to match your actual project.)*
 
 ---
 
@@ -73,18 +68,7 @@ Ensure you have:
 4. Tap **Calculate**
 5. View the result
 
-*(You can include screenshots here if available.)*
-
 ---
-
-## 🧪 Testing
-
-Describe how to run tests (if any):
-
-```bash
-# If unit tests are present
-./gradlew test
-```
 
 ---
 
@@ -97,8 +81,6 @@ Contributions are welcome!
 3. Commit your changes
 4. Open a Pull Request
 
-Include clear commit messages and follow coding standards.
-
 ---
 
 ## 📄 License
@@ -110,7 +92,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 🙋‍ Contact
 
 **Maintainer:**
-Tarun (or your name/email)
+Tarun Kumar
 GitHub: [https://github.com/tarun3695](https://github.com/tarun3695)
 
 ---
