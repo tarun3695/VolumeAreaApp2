@@ -16,8 +16,8 @@ A user-friendly application to compute **areas and volumes** of common 2D and 3D
 * Cylinder
 * Sphere
 
-✔️ Simple and intuitive user interface
-✔️ Input validation with helpful error messages
+✔️ Simple and intuitive user interface <br/>
+✔️ Input validation with helpful error messages <br/>
 ✔️ Results displayed clearly with units
 
 ---
