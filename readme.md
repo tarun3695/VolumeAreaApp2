@@ -5,19 +5,20 @@ A user-friendly application to compute **areas and volumes** of common 2D and 3D
 ## 🚀 Features
 
 ✔️ Calculate **area** of shapes such as:
-
 * Square
 * Rectangle
 * Circle
 * Triangle
-  ✔️ Calculate **volume** of solids such as:
+
+✔️ Calculate **volume** of solids such as:
 * Cube
 * Rectangular Prism (Cuboid)
 * Cylinder
 * Sphere
-  ✔️ Simple and intuitive user interface
-  ✔️ Input validation with helpful error messages
-  ✔️ Results displayed clearly with units
+
+✔️ Simple and intuitive user interface
+✔️ Input validation with helpful error messages
+✔️ Results displayed clearly with units
 
 ---
 
